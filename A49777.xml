@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Rogers's Christian Quaker, manifested to be antichristian by Thomas Lawrence of Marlbrough.</title>
+            <author>Lawrence, Thomas, 1645?-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49777</idno>
+            <idno type="STC">Wing L689A</idno>
+            <idno type="STC">ESTC R221692</idno>
+            <idno type="EEBO-CITATION">99832965</idno>
+            <idno type="PROQUEST">99832965</idno>
+            <idno type="VID">37440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2188:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Rogers's Christian Quaker, manifested to be antichristian by Thomas Lawrence of Marlbrough.</title>
+                  <author>Lawrence, Thomas, 1645?-1714.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Clark, in George-yard in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In response to Rogers, William. The Christian-Quaker distinguished from the apostate &amp; innovator.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, William, d. ca. 1709. --  Christian-Quaker distinguished from the apostate &amp; innovator.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37440:1"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:37440:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>
+               <hi>William Rogers's Chriſtian QUAKER,</hi> Manifeſted to be <hi>Antichriſtian.</hi>
+            </p>
+            <p>BY <hi>Thomas Lawrence</hi> OF <hi>MARLBRO<g ref="char:V">Ʋ</g>GH.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Benjamin Clark,</hi> in <hi>Georgeyard</hi> in <hi>Lombard-ſtreet.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37440:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="1" facs="tcp:37440:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <head>WILLIAM ROGERS's <hi>Chriſtian QUAKER,</hi> Manifeſted to be ANTICHRISTIAN.</head>
+            <p>
+               <hi>WIlliam Rogers</hi> of <hi>Briſtol,</hi> in behalf of himſelf, and his Friends with him con<g ref="char:EOLhyphen"/>cerned, hath Written a Book againſt Apoſtates, containing 100 Sheets of Paper, price 4 <hi>s.</hi> 4 <hi>d.</hi>
+            </p>
+            <p>In Anſwer to that Book, <hi>Thomas Lawrence</hi> of <hi>Marlbrough,</hi> their oppo<g ref="char:EOLhyphen"/>nent, hath Written a Book againſt Separatiſts, containing one Sheet of Paper, price one half Penny; Per<g ref="char:EOLhyphen"/>ſpicuity and Brevity are two chief points in writing, that, is plain and ſhort; But this Voluminous Book of <hi>William Rogers</hi> and his Friends concerned, is neither plain nor
+<pb n="2" facs="tcp:37440:3"/>
+               <!-- PDF PAGE 88 -->ſhort, but Ambiguous and Tedious, Doubtful and Long; Loaded with many Letters Suppoſitions and Jeal<g ref="char:EOLhyphen"/>louſies; Reïterations and Parentheſes; many and long objections and obſer<g ref="char:EOLhyphen"/>vations, that will both trouble and weary the Reader.</p>
+            <p>More to the purpoſe you might have Written in the tenth part of the Paper (having ſo many in Council) to make a Book, <hi>And Children of Light too,</hi> as you call.</p>
+            <p>Note, that envious Spirit, ſlande<g ref="char:EOLhyphen"/>rous to truth, and the ground of dif<g ref="char:EOLhyphen"/>ferences and contention, whereof you charge your oppoſers, it will fall upon your own Heads like a Mil<g ref="char:EOLhyphen"/>ſtone; nor is it likely, that your Book will gather any one to your ſide, that hath any ſence of truth in them, but rather cauſe many to de<g ref="char:EOLhyphen"/>part from you.</p>
+            <p>Thou beginneſt thy Preface with Chriſt's ſaying, <hi>As I hear, I Judge,</hi> that is, hear the party not report; <hi>William Rogers</hi> didſt thou ever hear <hi>George Fox</hi> adviſe <hi>Nathaniel Crips</hi> and
+<pb n="3" facs="tcp:37440:3"/>
+               <!-- PDF PAGE 88 -->
+               <hi>Robert Arch</hi> to buy their Tythes, or hearſay? didſt thou ever hear <hi>G. F.</hi> adviſe <hi>Mary Penington</hi> to hide or ſecure her goods from the Spoilers, in time of danger? elſe thou haſt judged by hearſay; Notwithſtan<g ref="char:EOLhyphen"/>ding thou did'ſt hide ſome part of thy own goods, and uſe many arguments for hiding goods, as appears in the firſt part of your Book, Page 32, 33.—</p>
+            <p>Thou haſt muddled that point, as thou haſt many others in your Book, that were plain enough before; why had'ſt thou not made it more intelli<g ref="char:EOLhyphen"/>gible and plain? as how much goods may be hid; what ſorts of goods; and who may do it; Thou haſt a<g ref="char:EOLhyphen"/>buſed <hi>George Fox</hi> double; firſt judg<g ref="char:EOLhyphen"/>ed him by heare-ſay, ſecondly, judged him for adviſing to hide goods in any caſe, and yet do it thy ſelf in ſome caſe; condemning another, and do the ſame things; ſo thou art inex<g ref="char:EOLhyphen"/>cuſable.</p>
+            <p>In your ſecond part, you treat on principles of Religion, but not ſo ſa<g ref="char:EOLhyphen"/>tisfying,
+<pb n="4" facs="tcp:37440:4"/>
+               <!-- PDF PAGE 89 -->as was done by Ancient Faithful Labourers in the Miniſtery, by Word and Writing, Doctrine and Government; You Preach up Do<g ref="char:EOLhyphen"/>ctrine, but leave out Chriſt's Govern<g ref="char:EOLhyphen"/>ment, and ſo you are rightly called <hi>Separates,</hi> putting aſunder what God hath joyned together; <hi>Parting Hus<g ref="char:EOLhyphen"/>band and Wife, cutting off the Body from the Head, as if they were all Traytors;</hi> you name your ſelves in a peculiar manner, <hi>Children of Light;</hi> what are none elſe Children of Light but <hi>William Rogers</hi> and his Friends concern'd? Sure e<g ref="char:EOLhyphen"/>nough your Book is a work of Dark<g ref="char:EOLhyphen"/>neſs, as appears; for you have aſſerted many things in your Book that are not true: Your firſt Aſſertion is. <q>That ſome ſay that God hath Anointed and choſen <hi>George Fox</hi> to be in that place, among the Children of Light, in our day, as <hi>Moſes</hi> was among the Children of <hi>Iſrael</hi> in his day; to ſet up forms of Church-Government, part firſt, pag. 9.</q> This you charge on them you call your oppoſers; Now it is your part to prove who they are;
+<pb n="5" facs="tcp:37440:4"/>
+               <!-- PDF PAGE 89 -->or if any ſuch be, thou knowſt not whether <hi>George Fox</hi> doth own their Teſtimony.</p>
+            <p>Second Aſſertion, <hi>You charge your oppoſers (as you call them) with Folly and Hypocriſie, that profeſs them<g ref="char:EOLhyphen"/>ſelves members of the true Church, and believe as the Church believes. Anſwer,</hi> To believe as the Church believes, for no other reaſon, but becauſe the Church ſo believes; Whether the Church of <hi>England,</hi> or Church of <hi>Rome</hi> is <hi>Popery;</hi> but to believe as the true Church believes, is true faith, not <hi>FOR,</hi> but <hi>AS;</hi> but your ſence concerning them, you call your oppoſers is, <hi>That they believe as others do, without Gods grace in their hearts, which you can never prove.</hi>
+            </p>
+            <p>Third Aſſertion, <hi>The place of Chriſts Government is only within, in the heart,</hi> part firſt, page 29. <hi>Q.</hi> Who then ſhall govern in the Life? What Scripture have you for the word <hi>only within?</hi> You quote <hi>Eſay</hi> the 9th. but that Scripture is againſt you, and ſaith
+<pb n="6" facs="tcp:37440:5"/>
+               <!-- PDF PAGE 90 -->
+               <hi>Chriſt</hi>'s, <hi>Government is upon his</hi> Soul<g ref="char:EOLhyphen"/>ders, that is without; the parable in the Light opens it ſelf, declaring Chriſt's Divine and Humane Nature, One God; begin at the 6 <hi>v. <g ref="char:V">Ʋ</g>nto us a Child is Born,</hi> his Human Nature; <hi>unto us a Son is given,</hi> his divine Nature; one Lord, one King, one Government, not divided, but in unity with his members.</p>
+            <p>Chriſt is not ſuffering now by him<g ref="char:EOLhyphen"/>ſelf in Heaven, but ſuffering together with his members on Earth, bearing up his Government in them, and ſuf<g ref="char:EOLhyphen"/>fering with them, within and with<g ref="char:EOLhyphen"/>out. <hi>Saul, Saul, why perſecuteſt thou me? in all their afflictions I was afflicted, preſſed as a Cart with Sheavs.</hi>
+            </p>
+            <p>The increaſe of his Government and peace have no end; but the Separates will have no increaſe of Chriſts Go<g ref="char:EOLhyphen"/>vernment, no more than was in the beginning; then no increaſe of peace there will be, but Wrangling and Dif<g ref="char:EOLhyphen"/>ferences with ſuch.</p>
+            <p>
+               <pb n="7" facs="tcp:37440:5"/>
+               <!-- PDF PAGE 90 -->
+Fourth Aſſertion, <hi>It is repugnant to the Light in our conſciences, to believe that Chriſts Government ſhould reſt up<g ref="char:EOLhyphen"/>on any Man, or Men, to be rulers over others. Anſwer,</hi> Theſe and the like words of governing, ruling and lord<g ref="char:EOLhyphen"/>ing over others, is ſo often charged, and ſo much of the Book ſpent, and ſo little or nothing proved, that it doth manifeſt the Author of this Book to be more crazy and flaſhy, then ſollid and weighty; yet ſtill try<g ref="char:EOLhyphen"/>ing up the <hi>Light within,</hi> and are not in it; None more able to betray his Maſter than a Diſciple; none could more advantagiouſly betray his Ma<g ref="char:EOLhyphen"/>ſter than a <hi>Judas;</hi> What a ſad thing it is for any to loſe a good condition, and not know it, nor will they know if one ſhould tell them.</p>
+            <p>Fifth Aſſertion, <hi>That</hi> George Fox <hi>was the firſt that did begin the difference among Friends, by ſetting up Monthly and Quarterly Meetings. Anſwer,</hi> The body of faithful Friends agreed, that the Monthly and Quarterly Meetings were ſet up by the Spirit and Power
+<pb n="8" facs="tcp:37440:6"/>
+               <!-- PDF PAGE 91 -->of Chriſt, through <hi>G. Fox,</hi> not by impoſition upon, but recommendation to the Church; <hi>John Wilkinſon,</hi> and <hi>John Story,</hi> both ſaid they would not ſay, <hi>They were not ſet up by the Power;</hi> yet <hi>John Story</hi> ſaid another time, <hi>He would not ſay, they were, or were not;</hi> the third time, <hi>John Story</hi> ſaid, <hi>He did not believe</hi> George Fox <hi>had Gods Spirit to do it by;</hi> and <hi>John Wilkinſon</hi> ſaid to me and others, <hi>He did not own the Monthly and Quarterly Mee<g ref="char:EOLhyphen"/>tings, when they were firſt ſet up.</hi>
+            </p>
+            <p>If this be not confuſion, what is? <hi>Nathaniel Crips,</hi> in his anſwer to my Book, <hi>concerning the Man of Sin re<g ref="char:EOLhyphen"/>vealed,</hi> ſaid, <hi>He did not own</hi> George Fox's <hi>orders, many years before he knew any Man diſown them.</hi> So he and the <hi>Johns</hi> ſeem to be wiſer in their own conceits, than the body of faithful Friends.</p>
+            <p>Now let the Reader judge in the true Light who were the firſt beginners of the differences, he that ſet up uſe<g ref="char:EOLhyphen"/>ful and decent Orders in the Church, by the Spirit and Power of Chriſt, or
+<pb n="9" facs="tcp:37440:6"/>
+               <!-- PDF PAGE 91 -->they that did begin quarelling and pecking at them?</p>
+            <p>Theſe three Diſſenters do themſelves diſprove what they firſt aſſerted.</p>
+            <p>Many more ſuch Aſſertions might be named; but firſt prove theſe true if you can: what you charge in your Book concerning <hi>George Fox<g ref="char:punc">▪</g> His fly<g ref="char:EOLhyphen"/>ing perſecution at</hi> Briſtol, I leave it for <hi>Briſtol</hi> Friends to anſwer, that were eye witneſſes of what was done; as for the reſt of your Book, I leave for you to weary your ſelves with; only let me tell you, that curſed <hi>Cham un<g ref="char:EOLhyphen"/>covered the nakedneſs of his natural Fa<g ref="char:EOLhyphen"/>ther;</hi> but you have endeavoured to uncover the nakedneſs of a Spiritual Father, if he had any, which you have not proved; having ſhot many Ar<g ref="char:EOLhyphen"/>rows of envy at him, even bitter words, and hard Speeches.</p>
+            <p>
+               <hi>Haman</hi> thought to deſtroy <hi>Morde<g ref="char:EOLhyphen"/>cai,</hi> and all the Seed of the <hi>Jews;</hi> but the deſtruction fell upon himſelf, and his confederates; but as <hi>Joſeph</hi> ſaid unto his Brethren, <hi>Ye intended evil againſt me, but God turned it to good;</hi> ſo your
+<pb n="10" facs="tcp:37440:7"/>
+               <!-- PDF PAGE 92 -->Printing your Book, and <hi>Jſaac Pen<g ref="char:EOLhyphen"/>ingtons,</hi> and <hi>George Foxes</hi> Letters, compared with <hi>William Rogers</hi> and <hi>John Wilkinſons,</hi> will prove an advan<g ref="char:EOLhyphen"/>tage to truth; and it will rejoyce ſuch as live in the life of Truth, to ſee the Torch flame, by knocking againſt the poſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſo may recover ſome from the Beaſt and falſe Prophet, that are now in their heate of Contention.</p>
+            <p>
+               <hi>William Rogers,</hi> If any man or men, that never heard of any diffe<g ref="char:EOLhyphen"/>rence among <hi>Quakers,</hi> ſhould un<g ref="char:EOLhyphen"/>derſtand upon what grounds thou haſt juſtified the <hi>Johns,</hi> and vilified <hi>George Fox,</hi> and <hi>Robert Barclay,</hi> they would wonder at thy unadviſed for<g ref="char:EOLhyphen"/>wardneſs, ſo to exceed in hard ſpeech<g ref="char:EOLhyphen"/>es; many of your own ſide reading <hi>J. Wilkinſon</hi>'s, and <hi>G.F's.</hi> Letters from one to each other, would ſink their eſteem of thy unreaſonable proceedings, but ſuch as have well known what <hi>George Fox</hi> and the <hi>Johns</hi> have been, in do<g ref="char:EOLhyphen"/>ing and ſuffering the benefit of com<g ref="char:EOLhyphen"/>pariſon, may be uſeful in this mat<g ref="char:EOLhyphen"/>ter.</p>
+            <p n="1">
+               <pb n="11" facs="tcp:37440:7"/>
+               <!-- PDF PAGE 92 -->
+1. <hi>George Fox</hi> was the firſt publick Preacher of that glorious day, the Light of Chriſt within ſince the apoſta<g ref="char:EOLhyphen"/>cy. <hi>John Wilkinſon</hi> ſaid, as in the fourth part of their Book, page. 77. <hi>That God appeared in</hi> George Fox<g ref="char:punc">▪</g> 
+               <hi>in the be<g ref="char:EOLhyphen"/>ginning of the day of Life, and reach<g ref="char:EOLhyphen"/>ed unto us</hi> (ſaith he) <hi>with his word, which gave us faith to believe his Te<g ref="char:EOLhyphen"/>ſtimony, that God gave of his Light in our hearts;</hi> John Story told me, <hi>That George Fox was detained from them in</hi> Lanſon <hi>Priſon; ſo they were at a great loſs for want of Councel, until</hi> George Fox <hi>came to them again;</hi> Then the <hi>Johns</hi> were not the firſt nor the moſt ancient Miniſters.</p>
+            <p n="2">2. <hi>George Fox</hi> hath been a great travelling Miniſter, not only all over <hi>England,</hi> but beyond the Seas, ma<g ref="char:EOLhyphen"/>ny hundred miles alſo; But the <hi>Johns</hi> were never beyond the Seas. (as I know,) nor never over <hi>England,</hi> nei<g ref="char:EOLhyphen"/>ther as I know, but from <hi>Kendal</hi> to <hi>Briſtol,</hi> and ſo to <hi>Reading,</hi> and back again to particular Meetings, with much wearineſs and caution in times
+<pb n="12" facs="tcp:37440:8"/>
+               <!-- PDF PAGE 93 -->of danger; nor bore no great Bur<g ref="char:EOLhyphen"/>then nor Heat, but by a good fire in their free quarters, and are little known or minded, but in their ſepa<g ref="char:EOLhyphen"/>rations.</p>
+            <p n="3">3. <hi>George Fox</hi> hath begotten many to God by Gods power in his Miniſtry, that reached my heart at firſt hearing, which the <hi>Johns</hi> did not; though I heard them often before, yet much hath been ſpoken of their gathering of People in part of the South and Weſt; but what have they gathered them to? but a profeſſion of true words out of the Life; Witneſs ſome particular Mee<g ref="char:EOLhyphen"/>tings, from <hi>Wickham</hi> to <hi>Briſtol,</hi> and thereabout.</p>
+            <p n="4">4. <hi>George Fox</hi> hath ſuffered in ma<g ref="char:EOLhyphen"/>ny Priſons, where he lay in the Rain and Dirt, which were promiſed to be mended by the Judges, but were not; but the <hi>Johns</hi> never ſuffered in any Priſon, as I know, except it was two or three Months in <hi>Fiſherton-Anger;</hi> where they had a dry Houſe, a good Bed, and Food convenient, I ſaw it. <hi>William Rogers,</hi> if thou and all thy
+<pb n="13" facs="tcp:37440:8"/>
+               <!-- PDF PAGE 93 -->Friends concern'd, can prove all your Writings true, and mine falſe; then I will willingly ſubmit to the truth in you; But if you cannot prove your Writing true, nor mine falſe, then you are to ſubmit to the truth in me; and ſo Controverſie will be ended.</p>
+            <closer>
+               <dateline>Marlbrough <date>the 3d. Month, 1681.
+Being the 81 year of my Age.</date>
+               </dateline>
+               <signed>THOMAS LAWRENCE</signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <p>IT is deſired that this may be diſperſed only amongſt Friends called <hi>Quakers,</hi> and ſuch others as have ſeen or do receive <hi>W. R.</hi> his ſaid Book againſt them.</p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
